@@ -30,6 +30,5 @@ jobs:
 
       
 
-    - name: make all
-
-      run:  make all
+    - name: make
+      run:  make -C MiniProject_C/3_Implementation/
